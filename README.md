@@ -11,7 +11,7 @@ _NOTE:Please check regularly for updates!_
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Token Economy](#TokenEconomy)
+- [Token Economy](#Token-Economy)
 - [PCW-BEP20](#PCWBEP20)
   * [Proof of Stake](#ProofofStake)
   * [Parameters of the BEP20](#ParametersoftheBEP20)
